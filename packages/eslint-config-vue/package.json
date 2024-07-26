@@ -1,0 +1,8 @@
+{
+  "name": "@echotechfe/eslint-config-uniapp",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
